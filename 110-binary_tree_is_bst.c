@@ -29,7 +29,7 @@ int check_sub_tree_Left(const binary_tree_t *node, int max)
 }
 
 /**
- * check_sub_tree_Right - it check if whether the nodes are bigger 
+ * check_sub_tree_Right-it check if whether the nodes are bigger
  * than the root specified
  * @node: node in the tree to verify condition
  * @min: value to compare
